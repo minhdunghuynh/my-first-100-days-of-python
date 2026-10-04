@@ -1,5 +1,5 @@
 <h1> my-first-100-days-of-python </h1>
-this is a journal of all beginner-intermediate python projects i've built since I started learning python as a programming language in September 2026.<br/>
+<h2>this is a journal of all beginner-intermediate python projects i've built since I started learning python as a programming language in September 2026.</h2><br/>
 i have committed to writing all of the codes in the repository <strong>by myself</strong>  without any external AI code generators.<br/>
 all programs are written on PyCharm<br/>
 
