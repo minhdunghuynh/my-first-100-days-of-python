@@ -9,6 +9,7 @@ sources used for coding:
   <li>Python Documentation</li>
   <li>W3Schools</li>
   <li>Google for Developers</li>
+  <li>DataCamp</li>
 </ol>
 
 <ins>september 2026</ins>: learnt basic python syntax: variables, data types, logical operators and randomization. built the first 4 simple programs<br/>
