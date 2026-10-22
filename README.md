@@ -12,4 +12,4 @@ sources used for coding:
 </ol>
 
 <ins>september 2026</ins>: learnt basic python syntax: variables, data types, logical operators and randomization. built the first 4 simple programs<br/>
-<ins>october 2026</ins>: learning more python concepts: <strong>while, for</strong> loops and its break points. started building more "complex" programs and games like hangman etc. <br/>
+<ins>october 2026</ins>: learning more python concepts: <strong>while, for</strong> loops and  <strong>dictionary</strong>. started building more "complex" programs and games like caesae cipher and hangman <br/>
