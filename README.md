@@ -9,4 +9,4 @@ sources used for coding:<br/>
 Python Doc, Geeks for Geeks, W3Schools, Google for Developers
 
 <ins>september 2026</ins>: learnt basic python syntax: variables, data types, logical operators and randomization. built the first 4 simple programs<br/>
-<ins>october 2026</ins>: learnt more python concepts: <strong>while for</strong> loops, <strong>input output</strong> functions and dictionary. started building more "complex" programs like caesar cipher, hangman and blind auction <br/>
+<ins>october 2026</ins>: learnt more python concepts: <strong>while for</strong> loops, <strong>input output</strong> functions and dictionary. started building more "complex" programs like caesar cipher, and hangman. Code is still messy comparing to solution, proud of the progress. <br/>
