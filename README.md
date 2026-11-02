@@ -10,4 +10,4 @@ Python Doc, Geeks for Geeks, W3Schools, freeCodeCamp
 
 <ins>september 2026</ins>: learnt basic python syntax: variables, data types, logical operators and randomization. built the first 4 simple programs<br/>
 <ins>october 2026</ins>: learnt more python concepts: <strong>while for</strong> loops, <strong>input output</strong> functions and dictionary. started building more "complex" programs like caesar cipher, and hangman. <br/> 
-ALSO, built my first self-designed text based Pokemon Battle game on day 10. my code is still relatively messier comparing to my instructor's solution, but i am proud and happy with the learning progress. <br/>
+ALSO, built <strong>a first self-designed text based Pokemon Battle game </strong> on day 10. my code is still relatively messier comparing to my instructor's solution, but i am proud and happy with the learning progress. <br/>
