@@ -24,6 +24,7 @@ while game_on:
 
     elif the_score > 0:
         object_a = object_b
+        print(f"Correct! Your score: {the_score}.")
 
     name_a = object_a.get("name")
     follower_a = object_a.get("follower_count")
